@@ -1,50 +1,23 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "# **Charles Pryor & Muoyo Okome**\n",
-    "\n",
-    "## **Goals\n",
-    "\n",
-    "    Our goal is try to identify the genre of movie that Microsoft should make to enter the forray of Hollywood movies.  We will indentify the genre of movie along with secondary and tertiary attributes that is proven as per our data to make the movie a success such as the effect on social media on Box office #'s, and prestigous awards(Oscar, Golden Globes, SAG awards) betsowed upon movies with higher revenue.  The Oscars is known to have a certain formula that its winners have.  Microsoft will get the formula that the award winners with higher box office numbers will generate.\n",
-    "\n",
-    "## **Responsiblities\n",
-    "\n",
-    "    We each shared quite similar responsibilities.  Muoyo is very strong in coding so he set up the shared Github and manipualated things in Pythoin technically.  In return, Charles has done some coding and vastly contributes to tying the project together and getting things presentation ready.  Both parties have worked extensively and every facet of this project.\n",
-    "\n",
-    "## **Resposi\n",
-    "    In summation, the files in the respository are each of our Jupyter notebooks that show our progress in merging data, cleaning data, sorting data, and commenting on this data.  This readme is located there along with a PDF of our presentation slides.\n"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.6.9"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 2
-}
+# Project 1 - Microsoft Goes to the Movies
+
+#### Charles Pryor & Muoyo Okome
+
+## Goals
+
+Our goal is try to identify the genre of movie that Microsoft should make to enter the forray of Hollywood movies.  We will identify the genre of movie along with secondary and tertiary attributes that are proven as per our data to make the movie a success such as picking an optimal director, cast, and setting the ideal budget. 
+
+## Responsiblities
+
+We each shared quite similar responsibilities.  Muoyo is very strong in coding so he set up the shared Github and manipualated things in Python technically as well as pulled the presentation together.  In return, Charles attempted to find an external data set that would support the finding but was unsuccessful.  Both parties have worked extensively hard on this project.\n",
+
+
+## Respository
+
+In summation, the files in this respository are each of our Jupyter notebooks that show our progress in merging data, cleaning data, sorting data, and commenting on this data.  This readme is located there along with a PDF of our presentation slides.
+The files in the reposoitory are as follows:
+1. This README.md
+2. Data - which includs all of the data sets included in the projects.
+3. index.jpynb which is the Jupyter notebook of Muoyo Okome who did the greater bulk of the work on the project.
+4. Movienotebook.jpynb which is Charles' failed attempt at including Twitter analytics into the presentation. 
+ -Within both notebooks you will see an excessive amount of data that was manipulated and cleaned plus several graphs.
+5.  Lastly, the presentation power point is stored in this repository.
